@@ -4,3 +4,4 @@
 - [📝 Reset de Meyer](https://meyerweb.com/eric/tools/css/reset/)
 - [📖 Guide CSS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [🎮 Jeux flex](https://flexboxfroggy.com/#fr)
+- [✅ Valider son code HTML](https://validator.w3.org/)
