@@ -1,3 +1,21 @@
+/*
+Générer avec trasnfonter : 
+https://transfonter.org/
+*/
+
+@font-face {
+    font-family: 'Sharp Grotesk Light 25';
+    src: url('fonts/SharpGroteskLight25-Regular.woff2') format('woff2'),
+        url('fonts/SharpGroteskLight25-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
 .montserrat {
     font-family: 'Montserrat', sans-serif;
+}
+
+.sharp {
+    font-family: 'Sharp Grotesk Light 25', sans-serif;
 }
