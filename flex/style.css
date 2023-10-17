@@ -1,0 +1,22 @@
+.square {
+    width: 50px;
+    height: 50px;
+    border: solid 2px black;
+    font-weight: 400;
+    /* Centrer un élément sur la verticale et l'horizontale */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: lightgray;
+    /* J'annonce mon Flex */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first {
+    order: -1;
+}
